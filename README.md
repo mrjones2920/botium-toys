@@ -1,2 +1,0 @@
-# cyberjones
-cyber security project
